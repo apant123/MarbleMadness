@@ -6,4 +6,5 @@ Marble Madness C++ Adventure Game
 Collect all gems to pass the level. Shoot the robots to destroy them. Move the marbles into the pits to cover them. 
 
 
-<img width="765" alt="Screenshot 2024-08-01 at 1 55 44 PM" src="https://github.com/user-attachments/assets/9f6511ec-5a07-45bd-8ae7-9c509ef36b53">
+<img width="765" alt="Screenshot 2024-08-01 at 2 00 37 PM" src="https://github.com/user-attachments/assets/811bc879-17ed-4921-aeaa-43d74ca47a33">
+
